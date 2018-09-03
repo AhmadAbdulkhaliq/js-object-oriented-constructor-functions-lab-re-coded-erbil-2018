@@ -4,6 +4,6 @@ this.year=year;
   this.model=model;
 }
 
-function Driver(){
+function Driver(name){
   
 }
