@@ -4,6 +4,8 @@ this.year=year;
   this.model=model;
 }
 
-function Driver(name){
-  
+function Driver(name , age , experience){
+  this.name=name;
+  this.age=age;
+  this.experience=experience;
 }
